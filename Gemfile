@@ -27,7 +27,7 @@ end
 group :development do
 	
   gem 'bootstrap-sass','~>3.2.0'
-gem 'autoprefixer-rails'
+  gem 'autoprefixer-rails'
 
   gem 'web-console', '>= 3.3.0'
   gem 'listen', '~> 3.0.5'
